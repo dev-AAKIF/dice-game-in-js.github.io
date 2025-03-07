@@ -1,3 +1,4 @@
 Site Link :
 
-https://dev-aakif.github.io/dice-game-in-js.github.io/
+
+https://dice-game-in-js.vercel.app/
