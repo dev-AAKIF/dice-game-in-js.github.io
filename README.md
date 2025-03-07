@@ -1,4 +1,4 @@
 Site Link :
 
 
-https://dice-game-in-js.vercel.app/
+https://dev-akif-dice-game-in-js.vercel.app/
